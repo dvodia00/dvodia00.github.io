@@ -1,2 +1,1 @@
-# dvorsky
-Website for Diane Dvorsky
+# Website for Diane Dvorsky
