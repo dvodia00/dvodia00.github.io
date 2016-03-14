@@ -1,3 +1,21 @@
+TODO: Decide on editorial steps.
+
+--
+
+Content of the German version of the text appears to be slightly different from the English version, for example the last paragraph under coaching.
+
+--
+
+I’ve added the text of the content you’ve written to the GitHub repository for the website project and converted it to Markdown format. 
+
+My primary reason for this is that it’s hard to get the text correctly formatted from the Google Docs document; I for example had to manually insert hyphens because Google Docs converts all of these to soft hyphens, and I had to fix a lot of other formatting issues manually.
+
+It would be a waste of time and effort to do this every time a change needs to be made to the content.
+
+Markdown is a very simple writing format that allows you to add minimal formatting using some simple codes. You’ll also be able to make changes to the content directly on GitHub while we work on the website. This should all be fairly straightforward with a little help from me or Javier initially.
+
+--
+
 NOTES
 
 - design voicemail message as well?
