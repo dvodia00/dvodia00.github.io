@@ -1,6 +1,6 @@
 # Treatment
 
-The treatments address adults or couples.
+The treatments address adults or couples. <br>
 Languages: English or German.
 
 ## Psychotherapeutic treatment
@@ -132,9 +132,9 @@ Accredited psychotherapist according to the [Swiss Federation of Psychologists (
 
 ## Contact
 
-Diane Dvorsky, PhD
-Private practice for Psychotherapy, Coaching and Neuropsychology
-Granitweg 2
+Diane Dvorsky, PhD <br>
+Private practice for Psychotherapy, Coaching and Neuropsychology <br>
+Granitweg 2 <br>
 8006 Zürich
 
 phone +41 44 585 15 01

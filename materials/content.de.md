@@ -1,6 +1,6 @@
 # Angebot
 
-Die Angebote wenden sich an erwachsene Einzelpersonen oder Paare.
+Die Angebote wenden sich an erwachsene Einzelpersonen oder Paare. <br>
 Sprachen: Deutsch oder Englisch
 
 ## Psychotherapeutische Behandlung
@@ -120,7 +120,7 @@ Selbstverständlich können Sie auch dieses Angebot als Selbstbezahler in Ansp
 
 Dr. phil. Diane Dvorsky
 
-[Fachpsychologin für Psychotherapie FSP](https://www.psychologie.ch)
+[Fachpsychologin für Psychotherapie FSP](https://www.psychologie.ch) <br>
 Eidg. anerkannte Psychotherapeutin
 
 ### Bisherige Tätigkeiten
@@ -141,12 +141,12 @@ Eidg. anerkannte Psychotherapeutin
  
 ## Kontakt
 
-Dr. phil. Diane Dvorsky
-Praxis für Psychotherapie, Coaching und Neuropsychologie
-Granitweg 2
+Dr. phil. Diane Dvorsky <br>
+Praxis für Psychotherapie, Coaching und Neuropsychologie <br>
+Granitweg 2 <br>
 8006 Zürich
 
-Tel. 044 585 15 01
+Tel. 044 585 15 01 <br>
 praxis@dvorsky.ch
 
 In jedem Fall können Sie mich direkt kontaktieren, wenn Sie Fragen haben oder unsicher sind. In einem unverbindlichen Telefongespräch können wir zusammen klären, ob mein Angebot für Sie passt.
