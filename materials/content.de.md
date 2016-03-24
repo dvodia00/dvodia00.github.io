@@ -1,7 +1,7 @@
 # Angebot
 
 Die Angebote wenden sich an erwachsene Einzelpersonen oder Paare. <br>
-Sprachen: Deutsch oder Englisch
+Sprachen: Deutsch oder Englisch.
 
 ## Psychotherapeutische Behandlung
 
@@ -26,9 +26,9 @@ Insgesamt sollen die individuellen Denk­ und Verhaltensmuster erkannt und Schri
 
 ### Methoden
 
-- personenzentrierte Gesprächstherapie
+- Personenzentrierte Gesprächstherapie
 - [Schematherapie](https://de.wikipedia.org/wiki/Schematherapie)
-- integrative [Gestalttherapie](https://de.wikipedia.org/wiki/Gestalttherapie)
+- [Integrative Gestalttherapie](https://de.wikipedia.org/wiki/Gestalttherapie)
 
 ### Konditionen
   
@@ -65,7 +65,8 @@ Einzelpersonen können für sich persönlich ein Coaching in Betracht ziehen.
 - In Ihrem Team, mit Ihrer vorgesetzten Person oder mit Ihren Mitarbeitern gestaltet sich die Kommunikation schwierig.
 - Sie benötigen Werkzeuge für eine zielführende Kommunikation.
 - Sie planen den nächsten Karriereschritt.
-- Sie haben ein schwieriges Gespräch / eine herausfordernde Phase vor sich. Sie sind in einem neuen Team und möchten sich positionieren.
+- Sie haben ein schwieriges Gespräch / eine herausfordernde Phase vor sich. 
+- Sie sind in einem neuen Team und möchten sich positionieren.
 - Sie übernehmen neu eine leitende Stelle / ein neues Team.
 
 → In diesem Fall wäre ein Business Coaching angezeigt.
@@ -121,7 +122,7 @@ Selbstverständlich können Sie auch dieses Angebot als Selbstbezahler in Ansp
 Dr. phil. Diane Dvorsky
 
 [Fachpsychologin für Psychotherapie FSP](https://www.psychologie.ch) <br>
-Eidg. anerkannte Psychotherapeutin
+Eidgenössisch anerkannte Psychotherapeutin
 
 ### Bisherige Tätigkeiten
 
@@ -130,7 +131,7 @@ Eidg. anerkannte Psychotherapeutin
 - Forschungstätigkeit an der Psychiatrischen Universitätsklinik Zürich (2009 ­- 2015)
 - Sales Representative (Neuroscience) bei AstraZeneca AG, Zug (2008 ­- 2009)
 - Psychotherapeutische Tätigkeit am Bruderholzspital Baselland, Abteilung für Neurorehabilitation (2007 ­- 2008)
-- Forschungstätigkeit im Rahmen der Dissertation an der Universität Basel und bei den Externen Psychiatrischen Diensten Baselland inklusive neuropsychologischer Abklärungen (2002 ­- 2006), Doktorat 2006
+- Forschungstätigkeit im Rahmen der Dissertation an der Universität Basel und bei den Externen Psychiatrischen Diensten Baselland inklusive neuropsychologischer Abklärungen (2002 ­- 2006, Doktorat 2006)
 - Psychotherapeutische Tätigkeit am Ambulatorium Münchenstein, Externe Psychiatrische Dienste Baselland (2000 ­- 2006)
 
 ### Aus-­ und Weiterbildungen
@@ -150,4 +151,3 @@ Tel. 044 585 15 01 <br>
 praxis@dvorsky.ch
 
 In jedem Fall können Sie mich direkt kontaktieren, wenn Sie Fragen haben oder unsicher sind. In einem unverbindlichen Telefongespräch können wir zusammen klären, ob mein Angebot für Sie passt.
- 

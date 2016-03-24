@@ -1,25 +1,21 @@
 TODO
 
-- Make sure the English text matches the German one in terms of content.
-- Fix major style issues.
-- Change to an active voice.
-- Improve headings.
-- Change organization of coaching section.
+- Discuss:
+  - I’m using “doctor” and “family doctor” instead of “physician” because even though “physician” has a different meaning in countries where “general practitioner” is more commonly used.
+  - Is “Psychotherapeutische Behandlung” a common phrase in German? In English, the shorter synonym “Psychotherapy” is pretty much always used. In English, using the word “treatment” also might feel a bit too “medical” or “clinical”, how is that in German?
+  - Is “resources” a common English word in this usage (“a person of resource”). Should we use a synonym such as “capabilities”?
+  - Maybe it’s nicer to use “oder” and “und” instead of a forward slash in the German version?
+  - Should we be using “relative” or “family member”?
+  - In the English version, the last part of the section with the “Ablauf” heading has been combined with the section with the “Ziele” header. Maybe it’s nice to do the same in the German version?
+
 - Add personal introduction with inner links.
-
---
-
-Content of the German version of the text appears to be slightly different from the English version, for example the last paragraph under coaching.
-
---
-
-I’ve added the text of the content you’ve written to the GitHub repository for the website project and converted it to Markdown format. 
-
-My primary reason for this is that it’s hard to get the text correctly formatted from the Google Docs document; I for example had to manually insert hyphens because Google Docs converts all of these to soft hyphens, and I had to fix a lot of other formatting issues manually.
-
-It would be a waste of time and effort to do this every time a change needs to be made to the content.
-
-Markdown is a very simple writing format that allows you to add minimal formatting using some simple codes. You’ll also be able to make changes to the content directly on GitHub while we work on the website. This should all be fairly straightforward with a little help from me or Javier initially.
+  - Use “couple’s counseling”?
+- Improve headings.
+  - When can Psychotherapy help?
+  - How do we get started with Psychotherapy?
+- Change to an active voice.
+- Fix remaining style issues.
+  - “Psychotherapy provides you with a safe environment to…”
 
 --
 
