@@ -1,5 +1,9 @@
 TODO
 
+- Handle feedback on notes at the top of https://github.com/Fingertips/dvorsky/commit/45ac8b7134f5a53676a5025a5049b1416aa5a20c separately.
+
+--
+
 - Discuss:
   - I’m using “doctor” and “family doctor” instead of “physician” because even though “physician” has a different meaning in countries where “general practitioner” is more commonly used.
   - Is “Psychotherapeutische Behandlung” a common phrase in German? In English, the shorter synonym “Psychotherapy” is pretty much always used. In English, using the word “treatment” also might feel a bit too “medical” or “clinical”, how is that in German?
@@ -10,7 +14,7 @@ TODO
 
 - Add personal introduction with inner links.
   - Use “couple’s counseling”?
-- Improve headings.
+- Improve headings; remove colons.
   - When can Psychotherapy help?
   - How do we get started with Psychotherapy?
 - Change to an active voice.
