@@ -35,7 +35,7 @@ Overall, your thinking and behavior patterns will be identified and gradually ch
 
 With supplementary coverage, your health insurance will pay part of “psychological psychotherapy”. However, be aware that terms and conditions vary between insurance policies. Please contact your health insurance to inquire up to what amount it will cover the costs, and under what conditions (for example, a referral from your family doctor). I am happy to provide a letter confirming my status as an accredited psychotherapist.
 
-Alternatively, you are of course also welcome to pay the costs out­-of-­pocket yourself. In this case, we will be able to discuss the conditions individually.
+Alternatively, you are of course also welcome to pay the costs out­-of-­pocket. In this case, we will be able to discuss the conditions individually.
 
 ## Life Coaching / Business Coaching
 
@@ -51,7 +51,7 @@ You can of course hire me to provide coaching for yourself. It is also possible 
 
 #### You typically ask yourself one of the following questions:
 
-- What are my goals?
+- What are my goals in life?
 - What is really important to me?
 - What would I like to start doing next?
 - Is my life now how I really want it to be?
