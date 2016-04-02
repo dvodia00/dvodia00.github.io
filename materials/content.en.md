@@ -29,6 +29,7 @@ Overall, your thinking and behavior patterns will be identified and gradually ch
 - Person-centered Talk therapy
 - [Schema therapy](https://en.wikipedia.org/wiki/Schema_therapy)
 - [Integrative Gestalt therapy](https://en.wikipedia.org/wiki/Gestalt_therapy)
+- [Mindfulness-based cognitive therapy](https://en.wikipedia.org/wiki/Mindfulness-based_cognitive_therapy)
 
 ### Conditions
 

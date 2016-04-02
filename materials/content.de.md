@@ -29,6 +29,7 @@ Insgesamt sollen die individuellen Denk­ und Verhaltensmuster erkannt und Schri
 - Personenzentrierte Gesprächstherapie
 - [Schematherapie](https://de.wikipedia.org/wiki/Schematherapie)
 - [Integrative Gestalttherapie](https://de.wikipedia.org/wiki/Gestalttherapie)
+- [Achtsamkeitsbasierte Kognitive Therapie](https://de.wikipedia.org/wiki/Achtsamkeitsbasierte_Kognitive_Therapie)
 
 ### Konditionen
   
