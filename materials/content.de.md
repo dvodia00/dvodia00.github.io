@@ -150,4 +150,4 @@ Granitweg 2 <br>
 Tel. 044 585 15 01 <br>
 praxis@dvorsky.ch
 
-In jedem Fall können Sie mich direkt kontaktieren, wenn Sie Fragen haben oder unsicher sind. In einem unverbindlichen Telefongespräch können wir zusammen klären, ob mein Angebot für Sie passt.
+In jedem Fall können Sie mich direkt kontaktieren, falls Sie Fragen haben oder unsicher sind. In einem unverbindlichen Telefongespräch können wir zusammen klären, ob mein Angebot für Sie passt.
