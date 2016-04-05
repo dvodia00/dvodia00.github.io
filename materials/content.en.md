@@ -59,7 +59,7 @@ You can of course hire me to provide coaching for yourself. It is also possible 
 - How can I make my life the way I want it to be?
 - What is my innermost desire?
 
-→ In these cases I recommend Life coaching.
+→ If any of these apply, then I would recommend Life coaching.
 
 #### Or, these are the issues that concern you most:
 
@@ -71,7 +71,7 @@ You can of course hire me to provide coaching for yourself. It is also possible 
 - You want to position yourself on a new team.
 - You recently assumed a new management position, or you took over a new team.
 
-→ In these cases I suggest Business coaching.
+→ If any of these apply, then I would suggest Business coaching.
 
 ### Procedure
 
