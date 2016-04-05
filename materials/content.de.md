@@ -3,7 +3,7 @@
 Die Angebote wenden sich an erwachsene Einzelpersonen oder Paare. <br>
 Sprachen: Deutsch oder Englisch.
 
-## Psychotherapeutische Behandlung
+## Psychotherapie
 
 Psychotherapie ermöglicht, in einem geschützten Rahmen Vergangenes aufzuarbeiten und an aktuellen Problemen zu arbeiten. Es wird dadurch möglich, sich weiter zu entwickeln und zu lernen, sowohl mit Erlebtem als auch mit eigenen Persönlichkeitsstrukturen umzugehen.
 
