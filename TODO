@@ -1,15 +1,8 @@
 TODO
 
-- Handle feedback on notes at the top of https://github.com/Fingertips/dvorsky/commit/45ac8b7134f5a53676a5025a5049b1416aa5a20c separately.
-
---
-
 - Discuss:
-  - I’m using “doctor” and “family doctor” instead of “physician” because even though “physician” has a different meaning in countries where “general practitioner” is more commonly used.
   - Is “Psychotherapeutische Behandlung” a common phrase in German? In English, the shorter synonym “Psychotherapy” is pretty much always used. In English, using the word “treatment” also might feel a bit too “medical” or “clinical”, how is that in German?
-  - Is “resources” a common English word in this usage (“a person of resource”). Should we use a synonym such as “capabilities”?
   - Maybe it’s nicer to use “oder” and “und” instead of a forward slash in the German version?
-  - Should we be using “relative” or “family member”?
   - In the English version, the last part of the section with the “Ablauf” heading has been combined with the section with the “Ziele” header. Maybe it’s nice to do the same in the German version?
 
 - Add personal introduction with inner links.
