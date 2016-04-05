@@ -22,7 +22,7 @@ Psychotherapy provides you with a safe environment to deal with past experiences
 
 In our first meeting we will discuss your goals and what I can do to help you achieve these. We will start with a diagnostic phase once you’ve decided to pursue therapy. In this phase, we will analyze your specific situation and review your current way of living. Then we will develop an initial support structure for your daily life, after which we will begin working on long-term solutions.
 
-Overall, your thinking and behavior patterns will be identified and gradually changed. Your existing resources will be identified and strengthened.
+Overall, your thinking and behavior patterns will be identified and gradually changed. Your existing capabilities will be identified and strengthened.
 
 ### Methods
 
@@ -37,7 +37,7 @@ With supplementary coverage, your health insurance will pay part of “psycholog
 
 Alternatively, you are of course also welcome to pay the costs out­-of-­pocket. In this case, we will be able to discuss the conditions individually.
 
-## Life Coaching / Business Coaching
+## Life Coaching and Business Coaching
 
 Coaching is the process in which a suitable companion supports you in the development of your potential that goes beyond a short-term approach. It’s not just a matter of finding immediate solutions in a specific situation, but above all the ongoing work on a sustainable growth process. Both individuals as well as teams can learn how these processes can empower them.
 

@@ -15,7 +15,7 @@ Psychotherapie ermöglicht, in einem geschützten Rahmen Vergangenes aufzuarbe
 - Sie haben deutlich weniger Lust und Freude an Dingen, die Sie sonst gerne tun.
 - Sie leiden darunter, dass sie bei Situationen oder auf Personen wiederholt nicht so reagieren, wie sie es sich wünschen.
 - Sie stellen immer wieder dieselben Denk­ und Verhaltensmuster bei sich fest, die Sie beeinträchtigen.
-- Sie haben ständig dieselben Konflikte mit Ihrem Partner/ Ihrer Partnerin.
+- Sie haben ständig dieselben Konflikte mit Ihrem Partner oder Ihrer Partnerin.
 - Sie haben das Gefühl, in einer Sackgasse zu sein.
 
 ### Vorgehensweise
@@ -37,7 +37,7 @@ Die Zusatzversicherungen der Krankenkasse übernehmen einen Teil der psychologi
 
 Alternativ können Sie als Selbstzahler die Kosten selbst übernehmen. In diesem Fall können wir die Konditionen individuell absprechen.
 
-## Life Coaching / Business Coaching
+## Life Coaching und Business Coaching
 
 Coaching ist ein durch einen geeigneten Begleiter geführter Prozess der Potentialentfaltung, der über situative, kurzfristige Lösungsansätze hinaus geht. Es geht nicht nur darum, rasche, situative Lösungen zu finden, sondern vor allem um das Erarbeiten nachhaltiger Wachstumsprozesse. Einzelpersonen wie auch Teams können lernen, sich stetig besser selbständig zu diesen Prozessen zu befähigen.
 
@@ -67,9 +67,9 @@ Einzelpersonen können für sich persönlich ein Coaching in Betracht ziehen.
 - In Ihrem Team, mit Ihrer vorgesetzten Person oder mit Ihren Mitarbeitern gestaltet sich die Kommunikation schwierig.
 - Sie benötigen Werkzeuge für eine zielführende Kommunikation.
 - Sie planen den nächsten Karriereschritt.
-- Sie haben ein schwieriges Gespräch / eine herausfordernde Phase vor sich. 
+- Sie haben ein schwieriges Gespräch oder eine herausfordernde Phase vor sich. 
 - Sie sind in einem neuen Team und möchten sich positionieren.
-- Sie übernehmen neu eine leitende Stelle / ein neues Team.
+- Sie übernehmen neu eine leitende Stelle oder ein neues Team.
 
 → In diesem Fall wäre ein Business Coaching angezeigt.
 
