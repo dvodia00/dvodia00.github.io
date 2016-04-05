@@ -16,7 +16,7 @@ Psychotherapy provides you with a safe environment to deal with past experiences
 - You find yourself in situations where you behave or react to other people differently than you would prefer to.
 - You always repeat the same behavior or you have the same thoughts over and over again, and this interferes with your daily life.
 - You always have the same conflicts with your partner.
-- You feel you’re at an impasse.
+- You feel stuck in your current situation and you don’t see any way forward.
 
 ### Procedure
 
