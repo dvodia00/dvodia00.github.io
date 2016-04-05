@@ -89,9 +89,6 @@ Coaching wird entweder vom Arbeitgeber oder vom Klienten selbst übernommen. Zu
 - Sie können Ihre Aufmerksamkeit nicht mehr gut aufrechterhalten.
 - Ihr Gedächtnis hat merklich nachgelassen.
 - Ihre Leistungen am Arbeitsplatz sind gesunken.
-
-### für Schüler (ab ca. 16 Jahren):
-
 - Es bestehen Defizite in schulischen Leistungen.
 - Es bestehen Lernprobleme.
 

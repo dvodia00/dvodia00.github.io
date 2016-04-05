@@ -89,9 +89,6 @@ The costs can be covered by the employer or by the client directly. Both employe
 - You can no longer maintain your attention very well.
 - It’s noticeably harder for you to remember things.
 - Your performance at work is lower than it used to be.
-
-### For students (16 years and older):
-
 - Academic performance is lagging behind.
 - There are learning difficulties.
 
