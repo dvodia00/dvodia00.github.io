@@ -53,6 +53,7 @@ You can of course hire me to provide coaching for yourself. It is also possible 
 
 - What are my goals in life?
 - What is really important to me?
+- Is my life how I want it to be?
 - What would I like to start doing next?
 - Is my life now how I really want it to be?
 - How can I make my life the way I want it to be?

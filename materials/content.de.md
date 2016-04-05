@@ -53,6 +53,7 @@ Einzelpersonen können für sich persönlich ein Coaching in Betracht ziehen.
 
 - Welche Ziele habe ich für mich?
 - Was ist mir wirklich wichtig?
+- TODO: Ist mein Leben, wie ich es sein wollte?
 - Was möchte ich als nächstes angehen?
 - Ist mein Leben jetzt so, wie ich es wirklich leben möchte?
 - Wie kann mein Leben so einrichten, wie ich es haben möchte?
