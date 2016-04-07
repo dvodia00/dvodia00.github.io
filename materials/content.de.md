@@ -104,11 +104,7 @@ Bei Unsicherheiten, ob eine Indikation für eine Testung besteht, können Sie 
 
 Nachdem Sie Ihre aktuellen Probleme (oder die Probleme eines Angehörigen) detailliert geschildert haben, wird eine entsprechende Testdurchführung mit passenden Tests geplant. Die Durchführung einer Testung dauert in der Regel zwei bis zweieinhalb Stunden und umfasst das Lösen spezifischer Aufgaben auf Papier und / oder am Computer.
 
-Nach der Testung erfolgt ein Rückmeldegespräch, in welchem die Resultate sowie Empfehlungen ausführlich besprochen werden.
-
-### Ziele
-
-Nach der Testung erfolgt die Auswertung sowie die Berichterstellung für Sie oder den zuweisenden Arzt. Da die Empfehlungen des Rückmeldegesprächs wenn möglich zeitnah umgesetzt werden sollen, werden auch diese mit dem zuweisenden Arzt besprochen.
+Nach der Testung erfolgt die Auswertung sowie die Berichterstellung für Sie oder den zuweisenden Arzt. Ebenso erfolgt ein Rückmeldegespräch, in welchem die Resultate sowie Empfehlungen ausführlich besprochen werden. Da die Empfehlungen des Rückmeldegesprächs wenn möglich zeitnah umgesetzt werden sollen, werden auch diese mit dem zuweisenden Arzt besprochen.
 
 ### Konditionen
 
