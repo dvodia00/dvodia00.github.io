@@ -131,7 +131,7 @@ Accredited psychotherapist according to the [Swiss Federation of Psychologists (
 ### Professional and advanced trainings
 
 - Schema therapy training, developed by Dr. Jeffrey Young (2006, and since 2015)
-- Psychotherapeutic training in Integrative Gestalt therapy, Institute for Gestalttherapy Würzburg (IGW), Germany (1999 ­- 2004)
+- Psychotherapeutic training in Integrative Gestalt therapy, Institute for Gestalttherapy Würzburg (IGW), Germany (1999 ­- 2004)
 - Academic studies in Clinical Psychology, Universities Zurich and Basel, master’s degree (1995 ­- 2000)
 
 ## Contact
@@ -139,7 +139,7 @@ Accredited psychotherapist according to the [Swiss Federation of Psychologists (
 Diane Dvorsky, PhD <br>
 Private practice for Psychotherapy, Coaching and Neuropsychology <br>
 Granitweg 2 <br>
-8006 Zürich
+8006 Zürich
 
 phone +41 44 585 15 01 <br>
 praxis@dvorsky.ch
