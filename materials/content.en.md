@@ -7,7 +7,7 @@ Hello. I am Diane Dvorsky, psychotherapist. I offer [individual therapy]() as we
 
 Psychotherapy provides you with a safe environment to deal with past experiences and to work on current issues. This makes further personal growth possible and allows you to learn how to cope with things you’ve experienced as well as how to get a handle on the structure of your personality.
 
-### Potential initial situations:
+### When can Psychotherapy help you?
 
 - You feel different than usual and therefore insecure.
 - You often feel down, sad, or hopeless.
@@ -47,9 +47,9 @@ Business coaching supports individuals or employers who want to accomplish new w
 
 You can of course hire me to provide coaching for yourself. It is also possible for an employer to book coaching for managers, teams, or for individual employees.
 
-### Potential initial situations
+### When can life coaching help you?
 
-#### You typically ask yourself one of the following questions:
+Life coaching can help you when you ask yourself one or more of the following questions:
 
 - What are my goals in life?
 - What is really important to me?
@@ -59,9 +59,9 @@ You can of course hire me to provide coaching for yourself. It is also possible 
 - How can I make my life the way I want it to be?
 - What is my innermost desire?
 
-→ If any of these apply, then I would recommend Life coaching.
+### When can you benefit from business coaching?
 
-#### Or, these are the issues that concern you most:
+You will benefit from business coaching when one or more of the following statements apply to you:
 
 - You are not able to define or achieve your professional goals.
 - Communication with your manager or with your employees is difficult in your team.
@@ -71,8 +71,6 @@ You can of course hire me to provide coaching for yourself. It is also possible 
 - You want to position yourself on a new team.
 - You recently assumed a new management position, or you took over a new team.
 
-→ If any of these apply, then I would suggest Business coaching.
-
 ### Procedure
 
 Together, we will review and analyze your current situation. Then we will work out what forms of support you might need. We will formulate a strategy, plan the time needed in your schedule, and organize the next steps you need to take to achieve your goals.
@@ -81,9 +79,9 @@ Together, we will review and analyze your current situation. Then we will work o
 
 The costs can be covered by the employer or by the client directly. Both employers as well as clients can contact me to schedule an appointment.
 
-## Neuropsychological Evaluation and Psychological Testing
+## Neurological Evaluation and Psychological Testing
 
-### Indications:
+### Indications
 
 - It’s suddenly harder for you to concentrate.
 - You can no longer maintain your attention very well.
