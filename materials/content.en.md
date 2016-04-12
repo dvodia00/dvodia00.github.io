@@ -1,7 +1,7 @@
 # Diane Dvorsky
-## Private practice for Psychotherapy, Coaching and Neuropsychology
+## Practice for Psychotherapy, Coaching and Neuropsychology
 
-Hello, my name is Diane Dvorsky. I am a psychotherapist. I offer _individual therapy_ as well as _couple’s counseling_ in my own practice _here in Zürich_. My methods include _person-centered talk therapy_, _schema therapy_, _gestalt therapy_, and _mindfulness therapy_. I also provide _coaching_, _neuropsychological evaluation_, and _psychological testing_. I work with German as well as English speaking clients.
+Hello. I am Diane Dvorsky, psychotherapist. I offer [individual therapy]() as well as [couple’s counseling]() in my own practice [here in Zürich](). My methods include [person-centered talk therapy](), [schema therapy](), [gestalt therapy](), and [mindfulness therapy](). I also provide [coaching](), [neuropsychological evaluation](), and [psychological testing](). I work with [German]() as well as [English]() speaking clients.
 
 ## Psychotherapy
 
@@ -137,7 +137,7 @@ Accredited psychotherapist according to the [Swiss Federation of Psychologists (
 ## Contact
 
 Diane Dvorsky, PhD <br>
-Private practice for Psychotherapy, Coaching and Neuropsychology <br>
+Practice for Psychotherapy, Coaching and Neuropsychology <br>
 Granitweg 2 <br>
 8006 Zürich
 
