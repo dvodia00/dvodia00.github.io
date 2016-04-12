@@ -1,7 +1,7 @@
-# Services
+# Diane Dvorsky
+## Private practice for Psychotherapy, Coaching and Neuropsychology
 
-These services are available both for individual adults as well as for couples. <br>
-Languages: English and German.
+Hello, my name is Diane Dvorsky. I am a psychotherapist. I offer _individual therapy_ as well as _couple’s counseling_ in my own practice _here in Zürich_. My methods include _person-centered talk therapy_, _schema therapy_, _gestalt therapy_, and _mindfulness therapy_. I also provide _coaching_, _neuropsychological evaluation_, and _psychological testing_. I work with German as well as English speaking clients.
 
 ## Psychotherapy
 
