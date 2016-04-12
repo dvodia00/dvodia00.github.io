@@ -1,7 +1,7 @@
 # Diane Dvorsky
 ## Practice for Psychotherapy, Coaching and Neuropsychology
 
-Hello. I am Diane Dvorsky, psychotherapist. I offer [individual therapy]() as well as [couple’s counseling]() in my own practice [here in Zürich](). My methods include [person-centered talk therapy](), [schema therapy](), [gestalt therapy](), and [mindfulness therapy](). I also provide [coaching](), [neurological evaluation](), and [psychological testing](). I work with [German]() as well as [English]() speaking clients.
+Hello. I am Diane Dvorsky, psychotherapist. I offer [individual therapy]() as well as [couple’s counseling]() in my own practice [here in Zürich](). My methods include [person-centered talk therapy](), [schema therapy](), [gestalt therapy](), and [mindfulness therapy](). I also provide [coaching](), [neuropsychological evaluation](), and [psychological testing](). I work with [German]() as well as [English]() speaking clients.
 
 ## Psychotherapy
 
@@ -79,7 +79,7 @@ Together, we will review and analyze your current situation. Then we will work o
 
 The costs can be covered by the employer or by the client directly. Both employers as well as clients can contact me to schedule an appointment.
 
-## Neurological Evaluation and Psychological Testing
+## Neuropsychological Evaluation and Psychological Testing
 
 ### Indications
 
