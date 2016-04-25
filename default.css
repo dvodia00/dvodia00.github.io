@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'Walsheim';
+  src: url('fonts/GT-Walsheim-Pro-Trial-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Walsheim';
+  src: url('fonts/GT-Walsheim-Pro-Trial-Medium.otf');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Walsheim';
+  src: url('fonts/GT-Walsheim-Pro-Trial-Light.otf');
+  font-weight: 300;
+  font-style: normal;
+}
+
+body
+{
+  font: 16px/1.25 'Walsheim', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+}
+h1, h2, h3, h4
+{
+  font-weight: 600;
+}
+
+body
+{
+  padding: 2em;
+}
+
+*, *:before, *:after
+{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+h1, h2
+{
+  margin: 0;
+  padding: 0;
+}
+
+hgroup:after
+{
+  content: '';
+  display: block;
+  clear: both;
+}
+
+hgroup
+{
+  margin: 0 0 2em 0;
+}
+hgroup h1, 
+hgroup h2
+{
+  font-size: 200%;
+  line-height: 0.8125;
+}
+hgroup h1
+{
+  float: left;
+  margin: 0 0.25em 0 0;
+  text-align: right;
+}
+hgroup h2
+{
+  margin: 0;
+  float: left;
+  font-weight: 300;
+}
+hgroup span
+{
+  display: block;
+}
+
+.hidden
+{
+  display: none;
+}
