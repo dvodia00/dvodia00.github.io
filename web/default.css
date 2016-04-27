@@ -56,13 +56,15 @@ hgroup:after
 
 div.column
 {
-  max-width: 50em;
   padding: 0 2em;
+  margin: 0 0 0 auto;;
+/*  margin: 0 auto;*/
 }
 @media (min-width: 640px) {
   div.column
   {
-    margin-left: 12em;
+    max-width: 64em;
+    padding-left: 12em;
   }
 }
 
