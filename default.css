@@ -33,8 +33,15 @@ h1, h2, h3, h4
   box-sizing: border-box;
 }
 
+.hidden
+{
+  display: none;
+}
+
 html, body,
-h1, h2
+h1, h2,
+blockquote,
+blockquote p
 {
   margin: 0;
   padding: 0;
@@ -49,23 +56,25 @@ hgroup:after
 
 div.column
 {
+  max-width: 50em;
   margin: 0 auto;
   padding: 0 2em;
 }
 
-header
+a
 {
-  padding: 2em 0;
-}
-section
-{
-  margin: 2em 0;
+  color: rgb(17, 141, 192);
 }
 
 header
 {
-  background: url(../materials/photos/DianePraxis_003.jpg) 50% 50% no-repeat;
+  background: url(../materials/photos/DianePraxis_005.jpg) 0 60% no-repeat;
   background-size: cover;
+}
+header div.column
+{
+  padding-top: 2em;
+  padding-bottom: 16vmin;  /* TODO */
 }
 
 hgroup
@@ -90,17 +99,79 @@ hgroup h2
   float: left;
   font-weight: 300;
 }
+/* TODO: Baseline fix for Safari; test on other browsers. */
+hgroup h2
+{
+  position: relative;
+  top: 1px;
+}
 hgroup span
 {
   display: block;
 }
 
-header p
+blockquote
 {
+  background: rgba(17, 141, 192, 0.6);
+  -webkit-backdrop-filter: blur(8px);
+}
+blockquote div.column
+{
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+blockquote,
+blockquote a
+{
+  color: rgba(255,255,255,1);
+}
+blockquote span,
+blockquote a,
+blockquote p:first-child:before,
+blockquote p:last-child:after
+{
+  opacity: 1;
+  transition: opacity 0.15s ease-out 0.1s;
+}
+blockquote.innerhover span,
+blockquote.innerhover a:not(:hover),
+blockquote.innerhover p:first-child:before,
+blockquote.innerhover p:last-child:after
+{
+  opacity: 0.7;
+  transition: opacity 0.15s ease-out;
+}
+blockquote a:active
+{
+  opacity: 0.9;
+}
+blockquote p
+{
+  position: relative;
   font-size: 150%;
+  line-height: 1.1667;
+}
+blockquote p:first-child:before
+{
+  content: "“";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: -1em;
+  width: 1em;
+  text-align: right;
+}
+blockquote p:last-child:after
+{
+  content: "”";
 }
 
-.hidden
+section div.column
 {
-  display: none;
+  padding-top: 2em;
+  padding-bottom: 0;
+}
+section:last-of-type div.column
+{
+  padding-bottom: 2em;
 }
