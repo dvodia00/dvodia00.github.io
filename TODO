@@ -1,4 +1,6 @@
-TODO
+- Might be nice to have a left-aligned column with the leftmost part of the logo in the margin of the main column. Investigate.
+
+--
 
 - Should we change the “Procedure” headers to something like “How do we get started with Psychotherapy?”
 - Should we add an introductory sentence before the list of methods?
@@ -12,3 +14,7 @@ NOTES
 - design voicemail message as well?
 - design business card as well?
 - how about having a form where people can leave their name and phone number so that Diana can call back?
+
+--
+
+$ MODULES="zepto event ie" npm run-script dist
