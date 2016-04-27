@@ -1,3 +1,5 @@
+- Optimize logo for narrow viewports; maybe we should scale it down smoothly? Maybe we should never use floats?
+- Reduce side padding on narrow viewports?
 - Add photo.
 
 --
