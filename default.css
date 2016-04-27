@@ -57,8 +57,13 @@ hgroup:after
 div.column
 {
   max-width: 50em;
-  margin: 0 auto;
   padding: 0 2em;
+}
+@media (min-width: 640px) {
+  div.column
+  {
+    margin-left: 12em;
+  }
 }
 
 a
@@ -79,7 +84,7 @@ header div.column
 
 hgroup
 {
-  margin: 0 0 2em 0;
+  position: relative;
 }
 hgroup h1, 
 hgroup h2
@@ -92,6 +97,17 @@ hgroup h1
   float: left;
   margin: 0 0.25em 0 0;
   text-align: right;
+/*  outline: 1px solid red;*/
+}
+@media (min-width: 640px) {
+  hgroup h1
+  {
+    position: absolute;
+    top: 0;
+    left: -6.25em;
+    width: 6em;
+    text-align: right;
+  }
 }
 hgroup h2
 {
@@ -119,6 +135,13 @@ blockquote div.column
 {
   padding-top: 1em;
   padding-bottom: 1em;
+}
+@media (min-width: 640px) {
+  blockquote div.column
+  {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+  }
 }
 blockquote,
 blockquote a
@@ -148,8 +171,13 @@ blockquote a:active
 blockquote p
 {
   position: relative;
-  font-size: 150%;
-  line-height: 1.1667;
+}
+@media (min-width: 640px) {
+  blockquote p
+  {
+    font-size: 150%;
+    line-height: 1.1667;
+  }
 }
 blockquote p:first-child:before
 {
@@ -168,10 +196,18 @@ blockquote p:last-child:after
 
 section div.column
 {
+  position: relative;
   padding-top: 2em;
   padding-bottom: 0;
 }
 section:last-of-type div.column
 {
   padding-bottom: 2em;
+}
+
+@media (min-width: 640px) {
+  section ul
+  {
+    padding-left: 0;
+  }
 }
