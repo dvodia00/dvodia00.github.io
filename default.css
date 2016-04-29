@@ -47,7 +47,8 @@ html, body,
 h1, h2,
 blockquote,
 blockquote p,
-img
+img,
+section
 {
   margin: 0;
   padding: 0;
@@ -91,14 +92,15 @@ a
 
 header
 {
-  background: url(../materials/photos/DianePraxis_005.jpg) 0 60% no-repeat;
+  background: url(../materials/photos/DianePraxis_005.jpg) 0 75% no-repeat;
+/*  background: url(../materials/photos/DianePraxis_005.jpg) 0 bottom no-repeat;*/
   background-size: cover;
   overflow: hidden;
 }
 header div.column
 {
   padding-top: 1em;
-  padding-bottom: 16vmin;  /* TODO */
+  padding-bottom: 24vmin;  /* TODO */
 }
 @media (min-width: 480px) {
   header div.column
@@ -231,19 +233,12 @@ section div.column
 {
   position: relative;
   padding-top: 1em;
-  padding-bottom: 0;
-}
-section:last-of-type div.column
-{
   padding-bottom: 1em;
 }
 @media (min-width: 480px) {
   section div.column
   {
     padding-top: 2em;
-  }
-  section:last-of-type div.column
-  {
     padding-bottom: 2em;
   }
 }
@@ -253,6 +248,61 @@ section:last-of-type div.column
   {
     padding-left: 0;
   }
+}
+
+section a
+{
+  opacity: 0.8;
+}
+section a:hover
+{
+  opacity: 1;
+}
+section a:active
+{
+  opacity: 0.6;
+}
+
+section#psychotherapy
+{
+  background: rgb(6, 55, 120);
+}
+section#psychotherapy,
+section#psychotherapy a
+{
+  color: rgb(132, 172, 238);
+}
+section#coaching
+{
+  background: rgb(136, 193, 192);
+}
+section#coaching,
+section#coaching a
+{
+  color: rgb(12, 67, 69);
+}
+section#neuropsychology
+{
+  background: rgb(98, 124, 47);
+}
+section#neuropsychology,
+section#neuropsychology a
+{
+  color: rgb(220, 225, 162);
+}
+section#about
+{
+  background: rgb(244, 168, 155);
+}
+section#about,
+section#about a
+{
+  color: rgb(68, 38, 26);
+}
+section#contact,
+section#contact a
+{
+  color: rgb(50, 59, 64);
 }
 
 @media (min-width: 480px) {
@@ -273,3 +323,8 @@ section:last-of-type div.column
     clear: both;
   }
 }
+
+/*img
+{
+  filter: blur(10px);;
+}*/
