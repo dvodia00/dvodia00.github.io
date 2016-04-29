@@ -237,3 +237,25 @@ section:last-of-type div.column
     padding-left: 0;
   }
 }
+
+div.double
+{
+  margin: 0 -1em;
+}
+div.double > div
+{
+  float: left;
+  width: 50%;
+  padding: 0 1em;
+}
+div.double:after
+{
+  content: "";
+  display: block;
+  clear: both;
+}
+img
+{
+  display: block;
+  width: 100%;
+}
