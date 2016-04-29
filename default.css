@@ -38,6 +38,10 @@ h1, h2, h3, h4
 {
   display: none;
 }
+.hidden.break
+{
+  display: block;
+}
 
 html, body,
 h1, h2,
@@ -47,6 +51,12 @@ img
 {
   margin: 0;
   padding: 0;
+}
+
+p,
+div.contact > div
+{
+  margin: 1em 0;
 }
 
 img
