@@ -20,3 +20,7 @@ NOTES
 --
 
 $ MODULES="zepto event ie" npm run-script dist
+
+--
+
+rsync -rz web/* paxton:/var/www/vandervossen_stuff/public/temporary/yd72ivn82dga
