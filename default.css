@@ -328,3 +328,19 @@ section#contact a
 {
   filter: blur(10px);;
 }*/
+
+@media print {
+  *
+  {
+    background: white !important;
+    color: black !important;
+  }
+  header div.column
+  {
+    padding-bottom: 2em;
+  }
+  section div.column
+  {
+    padding-bottom: 0;
+  }
+}
