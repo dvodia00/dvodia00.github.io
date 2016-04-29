@@ -50,8 +50,14 @@ blockquote p
 
 div.column
 {
-  padding: 0 2em;
+  padding: 0 1em;
   margin: 0 auto;
+}
+@media (min-width: 480px) {
+  div.column
+  {
+    padding: 0 2em;
+  }
 }
 @media (min-width: 640px) {
   div.column
@@ -70,11 +76,18 @@ header
 {
   background: url(../materials/photos/DianePraxis_005.jpg) 0 60% no-repeat;
   background-size: cover;
+  overflow: hidden;
 }
 header div.column
 {
-  padding-top: 2em;
+  padding-top: 1em;
   padding-bottom: 16vmin;  /* TODO */
+}
+@media (min-width: 480px) {
+  header div.column
+  {
+    padding-top: 2em;
+  }
 }
 
 hgroup
@@ -200,12 +213,22 @@ blockquote p:last-child:after
 section div.column
 {
   position: relative;
-  padding-top: 2em;
+  padding-top: 1em;
   padding-bottom: 0;
 }
 section:last-of-type div.column
 {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
+}
+@media (min-width: 480px) {
+  section div.column
+  {
+    padding-top: 2em;
+  }
+  section:last-of-type div.column
+  {
+    padding-bottom: 2em;
+  }
 }
 
 @media (min-width: 640px) {
