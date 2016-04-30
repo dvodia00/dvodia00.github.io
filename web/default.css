@@ -1,25 +1,6 @@
-@font-face {
-  font-family: 'Walsheim';
-  src: url('fonts/GT-Walsheim-Pro-Trial-Regular.otf');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Walsheim';
-  src: url('fonts/GT-Walsheim-Pro-Trial-Medium.otf');
-  font-weight: 600;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Walsheim';
-  src: url('fonts/GT-Walsheim-Pro-Trial-Light.otf');
-  font-weight: 300;
-  font-style: normal;
-}
-
 body
 {
-  font: 16px/1.25 'X-Walsheim', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font: 16px/1.25 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   text-rendering: optimizeLegibility;
 }
 h1, h2, h3, h4
