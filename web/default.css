@@ -37,7 +37,7 @@ section
 }
 
 p,
-div.contact > div
+section div.contact > div
 {
   margin: 1em 0;
 }
@@ -71,6 +71,18 @@ a
 {
   color: rgb(17, 141, 192);
 }
+a
+{
+  opacity: 0.8;
+}
+a:hover
+{
+  opacity: 1;
+}
+a:active
+{
+  opacity: 0.6;
+}
 
 header
 {
@@ -91,112 +103,126 @@ header div.column
   }
 }
 
-hgroup
+header hgroup
 {
+  float: left;
   position: relative;
   left: 4em;
   font-size: 150%;
   line-height: 0.9167;
 }
 @media (min-width: 480px) {
-  hgroup
+  header hgroup
   {
     font-size: 200%;
     line-height: 0.875;
   }
 }
 @media screen and (min-width: 640px) {
-  hgroup
+  header hgroup
   {
     left: 0;
   }
 }
-hgroup h1, 
-hgroup h2
+header hgroup h1, 
+header hgroup h2
 {
   font-size: 100%;
 }
-hgroup span
+header hgroup span
 {
   display: block;
 }
-hgroup h1
+header hgroup h1
 {
   position: absolute;
   top: 0;
   left: -4em;
   width: 4em;
 }
-hgroup h1 > span
+header hgroup h1 > span
 {
   float: left;
   text-align: right;
 }
-hgroup h2
+header hgroup h2
 {
   font-weight: 300;
 }
 /* TODO: Baseline fix for Safari; test on other browsers. */
-hgroup h2
+header hgroup h2
 {
   position: relative;
   top: 1px;
 }
 
-blockquote
+header div.contact
+{
+  display: none;
+}
+@media screen and (min-width: 640px) {
+  header div.contact
+  {
+    display: block;
+    float: right;
+    text-align: right;
+  }
+}
+
+header blockquote
 {
   background: rgba(17, 141, 192, 0.6);
   -webkit-backdrop-filter: blur(8px);
 }
-blockquote div.column
+header blockquote div.column
 {
   padding-top: 1em;
   padding-bottom: 1em;
 }
 @media (min-width: 640px) {
-  blockquote div.column
+  header blockquote div.column
   {
     padding-top: 1.5em;
     padding-bottom: 1.5em;
   }
 }
-blockquote,
-blockquote a
+header blockquote,
+header blockquote a
 {
   color: rgba(255,255,255,1);
 }
-blockquote span,
-blockquote a,
-blockquote p:first-child:before,
-blockquote p:last-child:after
+header blockquote span,
+header blockquote a,
+header blockquote p:first-child:before,
+header blockquote p:last-child:after
 {
   opacity: 1;
   transition: opacity 0.15s ease-out 0.1s;
 }
-blockquote.innerhover span,
-blockquote.innerhover a:not(:hover),
-blockquote.innerhover p:first-child:before,
-blockquote.innerhover p:last-child:after
+header blockquote.innerhover span,
+header blockquote.innerhover a:not(:hover),
+header blockquote.innerhover p:first-child:before,
+header blockquote.innerhover p:last-child:after
 {
   opacity: 0.6;
   transition: opacity 0.15s ease-out;
 }
-blockquote a:active
+header blockquote a:active
 {
   opacity: 0.8;
 }
-blockquote p
+header blockquote p
 {
   position: relative;
 }
 @media (min-width: 640px) {
-  blockquote p
+  header blockquote p
   {
     font-size: 150%;
     line-height: 1.1667;
   }
 }
-blockquote p:first-child:before
+header blockquote p:first-child:before
 {
   content: "“";
   display: block;
@@ -206,7 +232,7 @@ blockquote p:first-child:before
   width: 1em;
   text-align: right;
 }
-blockquote p:last-child:after
+header blockquote p:last-child:after
 {
   content: "”";
 }
@@ -230,19 +256,6 @@ section div.column
   {
     padding-left: 0;
   }
-}
-
-section a
-{
-  opacity: 0.8;
-}
-section a:hover
-{
-  opacity: 1;
-}
-section a:active
-{
-  opacity: 0.6;
 }
 
 section#psychotherapy

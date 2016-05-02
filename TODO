@@ -3,10 +3,10 @@
 - Test platform detection on Windows.
 - Make header background positioning work everywhere or use another photo with more space around the subject.
 - Bump up font-size slightly?
-- Scope header rules?
 - Rename .column and .double class names?
 
 - Replace Google Maps URL with a link pointing to the Google My Business listing.
+- Improve hover/active state effects on multitouch devices.
 
 --
 
