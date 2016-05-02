@@ -8,6 +8,7 @@
   })
 })()
 
+// Smooth scrolling to internal links
 ;(function() {
   if (window.pageYOffset !== undefined && history.pushState !== undefined) {
     function easeInOutCubic(t) {
@@ -38,6 +39,15 @@
           window.history.pushState(null, null, this.hash)
         scroll(this.hash)
       })
+    })
+  }
+})()
+
+// Use Apple Maps where available
+;(function() {
+  if (navigator.platform.match(/(Mac|iPhone|iPod|iPad)/i)) {
+    $('a[data-apple-href]').each(function() {
+      $(this).attr('href', $(this).attr('data-apple-href'))
     })
   }
 })()
