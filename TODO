@@ -1,21 +1,17 @@
-- Add phone number and email address in top right corner?
+- Add phone number and email address in top right corner or wider viewports, add call-to-action at the bottom of every section.
+- Add a “Show on Map…” link
+ 
+- Make header background positioning work everywhere or use another photo with more space around the subject.
+- Bump up font-size slightly?
 - Scope header rules?
 - Rename .column and .double class names?
 
---
-
-- Should we change the “Procedure” headers to something like “How do we get started with Psychotherapy?”
-- Should we add an introductory sentence before the list of methods?
-- Does it make sense to change to a more active voice?
-- Should we add something along the lines of “I believe that …” to make explicit what’s in https://3.basecamp.com/3098955/buckets/574249/messages/99508783#__recording_101334089 to the personal introduction?
+- Replace Google Maps URL with a link pointing to the Google My Business listing.
 
 --
-
-NOTES
 
 - design voicemail message as well?
 - design business card as well?
-- how about having a form where people can leave their name and phone number so that Diana can call back?
 
 --
 
