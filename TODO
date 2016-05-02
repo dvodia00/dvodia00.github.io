@@ -1,6 +1,6 @@
 - Add phone number and email address in top right corner or wider viewports, add call-to-action at the bottom of every section.
-- Add a “Show on Map…” link
  
+- Test platform detection on Windows.
 - Make header background positioning work everywhere or use another photo with more space around the subject.
 - Bump up font-size slightly?
 - Scope header rules?
