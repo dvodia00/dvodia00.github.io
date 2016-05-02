@@ -1,6 +1,9 @@
 body
 {
-  font: 16px/1.25 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font: -apple-system-body;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  line-height: 1.25;
+  font-weight: normal;
   text-rendering: optimizeLegibility;
 }
 h1, h2, h3, h4
