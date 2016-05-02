@@ -1,13 +1,14 @@
-- Test platform detection on Windows.
 - Make header background positioning work everywhere or use another photo with more space around the subject.
+- Test platform detection on Windows.
+- Improve hover/active state effects on multitouch devices.
+- Cross platform testing and fixes, including print CSS.
 
 - Replace Google Maps URL with a link pointing to the Google My Business listing.
-- Improve hover/active state effects on multitouch devices.
 
 --
 
-- design voicemail message as well?
-- design business card as well?
+- Design business card as well?
+- Design voicemail message as well?
 
 --
 
