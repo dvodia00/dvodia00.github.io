@@ -1,13 +1,13 @@
 # Diane Dvorsky
 ## Practice for Psychotherapy, Coaching and Neuropsychology
 
-“In my private practice [in Zürich](), I offer [individual therapy]() as well as [couple’s counseling]() using [person-centered talk therapy](), [schema therapy](), [gestalt therapy](), and [mindfulness therapy](). I also provide [coaching](), [neuropsychological evaluation](), and [psychological testing](). I work with [German]() as well as [English]() speaking clients.”
+“In my private practice in Zürich, I offer individual therapy as well as couple’s counseling. I also provide coaching and neuropsychological testing. I work with German as well as English speaking clients.”
 
 ## Psychotherapy
 
 Psychotherapy provides you with a safe environment to deal with past experiences and to work on current issues. This makes further personal growth possible and allows you to learn how to cope with things you’ve experienced as well as how to get a handle on the structure of your personality.
 
-### When can Psychotherapy help you?
+### In what situation is psychotherapy helpful?
 
 - You feel different than usual and therefore insecure.
 - You often feel down, sad, or hopeless.
@@ -26,7 +26,7 @@ Overall, your thinking and behavior patterns will be identified and gradually ch
 
 ### Methods
 
-- Person-centered Talk therapy
+- [Person-centered Talk therapy](https://en.wikipedia.org/wiki/Person-centered_therapy)
 - [Schema therapy](https://en.wikipedia.org/wiki/Schema_therapy)
 - [Integrative Gestalt therapy](https://en.wikipedia.org/wiki/Gestalt_therapy)
 - [Mindfulness-based cognitive therapy](https://en.wikipedia.org/wiki/Mindfulness-based_cognitive_therapy)
@@ -36,6 +36,8 @@ Overall, your thinking and behavior patterns will be identified and gradually ch
 With supplementary coverage, your health insurance will pay part of “psychological psychotherapy”. However, be aware that terms and conditions vary between insurance policies. Please contact your health insurance to inquire up to what amount it will cover the costs, and under what conditions (for example, a referral from your family doctor). I am happy to provide a letter confirming my status as an accredited psychotherapist.
 
 Alternatively, you are of course also welcome to pay the costs out­-of-­pocket. In this case, we will be able to discuss the conditions individually.
+
+Please do not hesitate to email me at praxis@dvorsky.ch or call me on +41 44 585 15 01. An informal conversation free of any obligation is the best way to determine how I might be able to help.
 
 ## Life Coaching and Business Coaching
 
@@ -47,7 +49,7 @@ Business coaching supports individuals or employers who want to accomplish new w
 
 You can of course hire me to provide coaching for yourself. It is also possible for an employer to book coaching for managers, teams, or for individual employees.
 
-### When can life coaching help you?
+### In what situations is life coaching helpful?
 
 Life coaching can help you when you ask yourself one or more of the following questions:
 
@@ -59,7 +61,7 @@ Life coaching can help you when you ask yourself one or more of the following qu
 - How can I make my life the way I want it to be?
 - What is my innermost desire?
 
-### When can you benefit from business coaching?
+### In what situations can you benefit from business coaching?
 
 You will benefit from business coaching when one or more of the following statements apply to you:
 
@@ -78,6 +80,8 @@ Together, we will review and analyze your current situation. Then we will work o
 ### Conditions
 
 The costs can be covered by the employer or by the client directly. Both employers as well as clients can contact me to schedule an appointment.
+
+Please do not hesitate to email me at praxis@dvorsky.ch or call me on +41 44 585 15 01. An informal conversation free of any obligation is the best way to determine how I might be able to help.
 
 ## Neuropsychological Evaluation and Psychological Testing
 
@@ -110,6 +114,8 @@ Neuropsychological evaluation and psychological testing are paid for by your hea
 
 Alternatively, You  are of course also welcome to pay for these services yourself. 
 
+Please do not hesitate to email me at praxis@dvorsky.ch or call me on +41 44 585 15 01. An informal conversation free of any obligation is the best way to determine how I might be able to help.
+
 ## About me
  
 Diane Dvorsky, PhD in Clinical Psychology
@@ -134,12 +140,13 @@ Accredited psychotherapist according to the [Swiss Federation of Psychologists (
 
 ## Contact
 
-Diane Dvorsky, PhD <br>
+Diane Dvorsky <br>
 Practice for Psychotherapy, Coaching and Neuropsychology <br>
+
+praxis@dvorsky.ch <br>
++41 44 585 15 01
+
 Granitweg 2 <br>
 8006 Zürich
-
-phone +41 44 585 15 01 <br>
-praxis@dvorsky.ch
 
 Please do not hesitate to contact me if you have any questions or if you are unsure of which services are most appropriate. An informal telephone conversation free of any obligation is the best way for us to determine if and how I might be able to help you.
