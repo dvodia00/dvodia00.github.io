@@ -2,21 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-
-	  <url>
-		  <loc>https://dvorsky.ch/index.html</loc>
-		  <xhtml:link 
-			  rel="alternate"
-			  hreflang="en"
-			  href="https://dvorsky.ch/en/index.html"
-			  />
-
-		  <xhtml:link 
-			  rel="alternate"
-			  hreflang="de"
-			  href="https://dvorsky.ch/index.html"
-			  />
-	  </url>
+	  <loc>https://dvorsky.ch/index.html</loc>
+	  <xhtml:link 
+		  rel="alternate"
+		  hreflang="en"
+		  href="https://dvorsky.ch/en/index.html"
+		  />
+		  
+	   <xhtml:link 
+		   rel="alternate"
+		   hreflang="de"
+		   href="https://dvorsky.ch/index.html"
+		   />
+  </url>
   
   <url>
 	  <loc>https://dvorsky.ch/en/index.html</loc>
@@ -25,12 +23,12 @@
 		  hreflang="en"
 		  href="https://dvorsky.ch/en/index.html"
 		  />
-
-	  <xhtml:link 
-		  rel="alternate"
-		  hreflang="de"
-		  href="https://dvorsky.ch/index.html"
-		  />
+		  
+	   <xhtml:link 
+		   rel="alternate"
+		   hreflang="de"
+		   href="https://dvorsky.ch/index.html"
+		   />
   </url>
     
 </urlset>
