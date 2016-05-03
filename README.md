@@ -6,4 +6,5 @@ Navigate to local web directory (Workspace/dvodia00.github.io)
 * git add .
 * git commit -m "a new version is ready!"
 * git push origin
+
 That's it!
