@@ -1,0 +1,16 @@
+- Make header background positioning work everywhere or use another photo with more space around the subject.
+- Test platform detection on Windows.
+- Improve hover/active state effects on multitouch devices.
+- Cross platform testing and fixes, including print CSS.
+- Do we need to host the vCards with the correct content type?
+- Add the output of css.js to the stylesheet or inline it to make Google pagespeed happy.
+- Optimize images.
+- Concatenate JS.
+
+--
+
+$ MODULES="zepto event ie" npm run-script dist
+
+--
+
+rsync -rz web/* paxton:/var/www/vandervossen_stuff/public/temporary/yd72ivn82dga

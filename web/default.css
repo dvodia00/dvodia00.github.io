@@ -1,0 +1,352 @@
+body
+{
+  font: -apple-system-body;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  line-height: 1.25;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+h1, h2, h3, h4
+{
+  font-weight: 600;
+}
+
+*, *:before, *:after
+{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.hidden
+{
+  display: none;
+}
+.hidden.break,
+.hidden.from_print
+{
+  display: block;
+}
+
+html, body,
+h1, h2,
+blockquote,
+blockquote p,
+img,
+section
+{
+  margin: 0;
+  padding: 0;
+}
+
+p,
+section div.contact > div
+{
+  margin: 1em 0;
+}
+
+img
+{
+  display: block;
+  width: 100%;
+}
+
+div.column
+{
+  padding: 0 1em;
+  margin: 0 auto;
+}
+@media (min-width: 480px) {
+  div.column
+  {
+    padding: 0 2em;
+  }
+}
+@media screen and (min-width: 640px) {
+  div.column
+  {
+    max-width: 54em;
+    padding-left: 10em;
+  }
+}
+
+a
+{
+  color: rgb(17, 141, 192);
+}
+a
+{
+  opacity: 0.8;
+}
+a:hover
+{
+  opacity: 1;
+}
+a:active
+{
+  opacity: 0.6;
+}
+
+header
+{
+  background: url(header.jpg) 0 75% no-repeat;
+/*  background: url(../materials/photos/DianePraxis_005.jpg) 0 bottom no-repeat;*/
+  background-size: cover;
+  overflow: hidden;
+}
+header div.column
+{
+  padding-top: 1em;
+  padding-bottom: 32vmin;  /* TODO */
+}
+@media (min-width: 480px) {
+  header div.column
+  {
+    padding-top: 2em;
+  }
+}
+
+header hgroup
+{
+  float: left;
+  position: relative;
+  left: 4em;
+  font-size: 150%;
+  line-height: 0.9167;
+}
+@media (min-width: 480px) {
+  header hgroup
+  {
+    font-size: 200%;
+    line-height: 0.875;
+  }
+}
+@media screen and (min-width: 640px) {
+  header hgroup
+  {
+    left: 0;
+  }
+}
+header hgroup h1, 
+header hgroup h2
+{
+  font-size: 100%;
+}
+header hgroup span
+{
+  display: block;
+}
+header hgroup h1
+{
+  position: absolute;
+  top: 0;
+  left: -4em;
+  width: 4em;
+}
+header hgroup h1 > span
+{
+  float: left;
+  text-align: right;
+}
+header hgroup h2
+{
+  font-weight: 300;
+}
+/* TODO: Baseline fix for Safari; test on other browsers. */
+header hgroup h2
+{
+  position: relative;
+  top: 1px;
+}
+
+header div.contact
+{
+  display: none;
+}
+@media screen and (min-width: 640px) {
+  header div.contact
+  {
+    display: block;
+    float: right;
+    text-align: right;
+  }
+}
+
+header blockquote
+{
+  background: rgba(17, 141, 192, 0.6);
+  -webkit-backdrop-filter: blur(8px);
+}
+header blockquote div.column
+{
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+@media (min-width: 640px) {
+  header blockquote div.column
+  {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+  }
+}
+header blockquote,
+header blockquote a
+{
+  color: rgba(255,255,255,1);
+}
+header blockquote span,
+header blockquote a,
+header blockquote p:first-child:before,
+header blockquote p:last-child:after
+{
+  opacity: 1;
+  transition: opacity 0.15s ease-out 0.1s;
+}
+header blockquote.innerhover span,
+header blockquote.innerhover a:not(:hover),
+header blockquote.innerhover p:first-child:before,
+header blockquote.innerhover p:last-child:after
+{
+  opacity: 0.6;
+  transition: opacity 0.15s ease-out;
+}
+header blockquote a:active
+{
+  opacity: 0.8;
+}
+header blockquote p
+{
+  position: relative;
+}
+@media (min-width: 640px) {
+  header blockquote p
+  {
+    font-size: 150%;
+    line-height: 1.1667;
+  }
+}
+header blockquote p:first-child:before
+{
+  content: "“";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: -1em;
+  width: 1em;
+  text-align: right;
+}
+header blockquote p:last-child:after
+{
+  content: "”";
+}
+
+section div.column
+{
+  position: relative;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+@media (min-width: 480px) {
+  section div.column
+  {
+    padding-top: 2em;
+    padding-bottom: 2em;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  section ul
+  {
+    padding-left: 0;
+  }
+}
+
+section#psychotherapy
+{
+  background: rgb(6, 55, 120);
+}
+section#psychotherapy,
+section#psychotherapy a
+{
+  color: rgb(132, 172, 238);
+}
+section#coaching
+{
+  background: rgb(136, 193, 192);
+}
+section#coaching,
+section#coaching a
+{
+  color: rgb(12, 67, 69);
+}
+section#neuropsychology
+{
+  background: rgb(98, 124, 47);
+}
+section#neuropsychology,
+section#neuropsychology a
+{
+  color: rgb(220, 225, 162);
+}
+section#about
+{
+  background: rgb(244, 168, 155);
+}
+section#about,
+section#about a
+{
+  color: rgb(68, 38, 26);
+}
+section#contact,
+section#contact a
+{
+  color: rgb(50, 59, 64);
+}
+
+@media (min-width: 480px) {
+  div.double
+  {
+    margin: 0 -1em;
+  }
+  div.double > div
+  {
+    float: left;
+    width: 50%;
+    padding: 0 1em;
+  }
+  div.double:after
+  {
+    content: "";
+    display: block;
+    clear: both;
+  }
+}
+
+@media print {
+  *,
+  a
+  {
+    background: transparent !important;
+    color: black !important;
+  }
+  a
+  {
+    text-decoration: none;
+  }
+  header div.column
+  {
+    padding-bottom: 2em;
+  }
+  section div.column
+  {
+    padding-bottom: 0;
+  }
+  .hidden.from_screen
+  {
+    display: block;
+  }
+  .hidden.from_print
+  {
+    display: none;
+  }
+}
