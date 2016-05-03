@@ -4,6 +4,8 @@
 - Cross platform testing and fixes, including print CSS.
 - Do we need to host the vCards with the correct content type?
 - Add the output of css.js to the stylesheet or inline it to make Google pagespeed happy.
+- Optimize images.
+- Concatenate JS.
 
 --
 
