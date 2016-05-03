@@ -1,13 +1,13 @@
-# Angebot
+# Diane Dvorsky
+## Praxis für Psychotherapie, Coaching und Neuropsychologie
 
-Die Angebote wenden sich an erwachsene Einzelpersonen oder Paare. <br>
-Sprachen: Deutsch oder Englisch.
+"In meiner Praxis in Zürich biete ich Einzel- und Paartherapie sowie Coaching an. Des Weiteren führe ich neuropsychologische Untersuchungen durch. Ich arbeite in den Sprachen Deutsch oder Englisch."
 
 ## Psychotherapie
 
 Psychotherapie ermöglicht, in einem geschützten Rahmen Vergangenes aufzuarbeiten und an aktuellen Problemen zu arbeiten. Es wird dadurch möglich, sich weiter zu entwickeln und zu lernen, sowohl mit Erlebtem als auch mit eigenen Persönlichkeitsstrukturen umzugehen.
 
-### Mögliche Ausgangssituationen
+### In welcher Situation ist Psychotherapie hilfreich?
 
 - Sie fühlen sich verändert und dadurch verunsichert.
 - Sie fühlen sich häufig niedergeschlagen, traurig bedrückt oder hoffnungslos.
@@ -26,7 +26,7 @@ Insgesamt sollen die individuellen Denk­ und Verhaltensmuster erkannt und Schri
 
 ### Methoden
 
-- Personenzentrierte Gesprächstherapie
+- [Personenzentrierte Gesprächstherapie](https://de.wikipedia.org/wiki/Klientenzentrierte_Psychotherapie)
 - [Schematherapie](https://de.wikipedia.org/wiki/Schematherapie)
 - [Integrative Gestalttherapie](https://de.wikipedia.org/wiki/Gestalttherapie)
 - [Achtsamkeitsbasierte Kognitive Therapie](https://de.wikipedia.org/wiki/Achtsamkeitsbasierte_Kognitive_Therapie)
@@ -36,6 +36,8 @@ Insgesamt sollen die individuellen Denk­ und Verhaltensmuster erkannt und Schri
 Die Zusatzversicherungen der Krankenkasse übernehmen einen Teil der psychologischen Psychotherapie, jedoch gestalten sich die Kostenübernahme im Rahmen der Zusatzversicherungen je nach Krankenkasse und Versicherungsmodell unterschiedlich. Bitte erkundigen Sie sich direkt bei Ihrer Krankenkasse, welchen Betrag sie übernehmen wird und unter welchen Konditionen (z.B. Überweisung durch den Hausarzt). Gerne kann ich Ihnen ein Bestätigungsschreiben meiner Zulassung abgeben.
 
 Alternativ können Sie als Selbstzahler die Kosten selbst übernehmen. In diesem Fall können wir die Konditionen individuell absprechen.
+
+Zögern Sie nicht, mich entweder unter praxis@dvorsky.ch oder unter +41 44 382 11 12 zu kontaktieren. Ein unverbindliches Gespräch ist der beste Weg herauszufinden, wie ich Ihnen weiterhelfen kann. 
 
 ## Life Coaching und Business Coaching
 
@@ -47,9 +49,9 @@ Business Coaching richtet sich an Einzelpersonen oder Arbeitgeber, die vor allem
 
 Einzelpersonen können für sich persönlich ein Coaching in Betracht ziehen. Auch Arbeitgeber können für Vorgesetzte, für Teams oder für einzelne Mitarbeiter ein Coaching buchen.
 
-### Mögliche Ausgangssituationen
+### In welchen Situationen ist Life Coaching hilfreich?
 
-#### Sie stellen sich typischerweise folgende Fragen:
+Life Coaching kann Ihnen helfen, wenn Sie sich eine oder mehrere der folgenden Fragen stellen:
 
 - Welche Ziele habe ich für mich?
 - Was ist mir wirklich wichtig?
@@ -59,9 +61,9 @@ Einzelpersonen können für sich persönlich ein Coaching in Betracht ziehen. Au
 - Wie kann mein Leben so einrichten, wie ich es haben möchte?
 - Was ist mein innerster Wunsch?
 
-→ Dann empfehle ich Ihnen ein Life Coaching.
+### In welchen Situationen ist Business Coaching sinnvoll?
 
-#### Oder, folgende Themen treiben Sie vor allem um:
+Von Business Coaching können Sie profitieren, wenn eine oder mehrere Aussagen auf Sie zutreffen:
 
 - Sie scheitern daran, Ihre beruflichen Ziele zu definieren oder umzusetzen.
 - In Ihrem Team, mit Ihrer vorgesetzten Person oder mit Ihren Mitarbeitern gestaltet sich die Kommunikation schwierig.
@@ -71,7 +73,6 @@ Einzelpersonen können für sich persönlich ein Coaching in Betracht ziehen. Au
 - Sie sind in einem neuen Team und möchten sich positionieren.
 - Sie übernehmen neu eine leitende Stelle oder ein neues Team.
 
-→ In diesem Fall wäre ein Business Coaching angezeigt.
 
 ### Vorgehensweise
 
@@ -80,6 +81,8 @@ Zusammen betrachten und analysieren wir Ihre aktuelle Situation. Danach erarbeit
 ### Konditionen
 
 Coaching wird entweder vom Arbeitgeber oder vom Klienten selbst übernommen. Zur Kontaktaufnahme können sich sowohl Klienten wie auch Arbeitgeber direkt bei mir melden.
+
+Zögern Sie nicht, mich entweder unter praxis@dvorsky.ch oder unter +41 44 382 11 12 zu kontaktieren. Ein unverbindliches Gespräch ist der beste Weg herauszufinden, wie ich Ihnen weiterhelfen kann. 
 
 ## Neuropsychologische Abklärung / Testpsychologie
 
@@ -112,6 +115,8 @@ Neuropsychologische Abklärungen / Testpsychologie können bei Anmeldung durch e
 
 Selbstverständlich können Sie auch dieses Angebot als Selbstbezahler in Anspruch nehmen.
 
+Zögern Sie nicht, mich entweder unter praxis@dvorsky.ch oder unter +41 44 382 11 12 zu kontaktieren. Ein unverbindliches Gespräch ist der beste Weg herauszufinden, wie ich Ihnen weiterhelfen kann. 
+
 ## Über mich
 
 Dr. phil. Diane Dvorsky
@@ -137,12 +142,13 @@ Eidgenössisch anerkannte Psychotherapeutin
  
 ## Kontakt
 
-Dr. phil. Diane Dvorsky <br>
+Diane Dvorsky <br>
 Praxis für Psychotherapie, Coaching und Neuropsychologie <br>
+
+praxis@dvorsky.ch <br>
+044 585 15 01 
+
 Granitweg 2 <br>
 8006 Zürich
-
-Tel. 044 585 15 01 <br>
-praxis@dvorsky.ch
 
 In jedem Fall können Sie mich direkt kontaktieren, falls Sie Fragen haben oder unsicher sind. In einem unverbindlichen Telefongespräch können wir zusammen klären, ob mein Angebot für Sie passt.
