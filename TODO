@@ -2,13 +2,8 @@
 - Test platform detection on Windows.
 - Improve hover/active state effects on multitouch devices.
 - Cross platform testing and fixes, including print CSS.
-
-- Replace Google Maps URL with a link pointing to the Google My Business listing.
-
---
-
-- Design business card as well?
-- Design voicemail message as well?
+- Do we need to host the vCards with the correct content type?
+- Add the output of css.js to the stylesheet or inline it to make Google pagespeed happy.
 
 --
 
