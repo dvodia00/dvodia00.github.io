@@ -112,7 +112,13 @@ header
 header div.column
 {
   padding-top: 1em;
-  padding-bottom: 40vmin;
+  padding-bottom: 32vmin;
+}
+header div.column:after
+{
+  content: "";
+  display: block;
+  clear: both;
 }
 @media (min-width: 480px) {
   header div.column
@@ -167,7 +173,6 @@ header div.logo h2
 {
   font-weight: 300;
 }
-/* TODO: Baseline fix for Safari; test on other browsers. */
 header div.logo h2
 {
   position: relative;
@@ -189,6 +194,7 @@ header div.contact
 
 header blockquote
 {
+  clear: both;
   background: rgba(17, 141, 192, 0.6);
   -webkit-backdrop-filter: blur(6px);
 }
@@ -366,6 +372,10 @@ div.photos.second > div:last-child {  background-image: url(photo4.jpg); }
   {
     text-decoration: none;
   }
+  header blockquote p
+  {
+    font-size: 100%;
+  }
   header div.column
   {
     padding-bottom: 2em;
@@ -378,6 +388,7 @@ div.photos.second > div:last-child {  background-image: url(photo4.jpg); }
   {
     display: block;
   }
+  div.photos,
   .hidden.from_print
   {
     display: none;
