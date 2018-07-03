@@ -72,10 +72,24 @@ div.column
   padding: 0 1em;
   margin: 0 auto;
 }
+@supports(padding: max(0px)) {
+  div.column
+  {
+    padding-left: max(1em, env(safe-area-inset-left));
+    padding-right: max(1em, env(safe-area-inset-right));
+  }
+}
 @media (min-width: 480px) {
   div.column
   {
     padding: 0 2em;
+  }
+  @supports(padding: max(0px)) {
+    div.column
+    {
+      padding-left: max(2em, env(safe-area-inset-left));
+      padding-right: max(2em, env(safe-area-inset-right));
+    }
   }
 }
 @media screen and (min-width: 640px) {
