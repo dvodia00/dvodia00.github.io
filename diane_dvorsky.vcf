@@ -2,10 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 N:Dvorsky;Diane;;;
 FN:Diane Dvorsky
-ORG:Praxis für Psychotherapie\, Coaching und Neuropsychologie;
+ORG:Practice for Psychotherapy\, Coaching and Neuropsychology;
 EMAIL;TYPE=PREF,INTERNET,WORK:praxis@dvorsky.ch
-ADR;TYPE=PREF,WORK:;;Granitweg 2;Zürich;;8006;
-URL:http://dvorsky.ch
+TEL;TYPE=PREF,WORK,VOICE:+41 79 223 06 43‬
+ADR;TYPE=PREF,WORK:;;Dorfstrasse 78;Meilen;;8706;Switzerland
+URL:https://dvorsky.ch
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  AAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAA
  AAAACQAAAAAQAAAJAAAAABAAKgAgAEAAAAAQAABACgAwAEAAAAAQAABAAAAAAA/+0AOFBob3Rv
